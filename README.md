@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Good README Generator</title>
+
 </head>
 <body>
 <div id = "top">
@@ -42,7 +42,7 @@ node.js,mySQL</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='installation'>Installation</h3>
-<p>Install requirements with 'npm install' and initialize with 'node server.js'</p><br>
+<p>Install requirements with 'npm install' and initialize with 'node server.js'. Also be sure to enter a password in order to connect with mysql.</p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
 <hr color= "slateblue" noshade>
